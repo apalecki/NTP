@@ -7,4 +7,8 @@ https://www.theverge.com/2016/5/6/11607828/spacex-landed-falcon-rockets-stored-w
 additional:
 ChatGPT using the prompt "can you make a nuclear powered spaceship" this helped with understanding the overall idea of what we were going to be researching as well as the questions we should be asking about the topic.
 spaceship clipart taken from https://www.clipartmax.com/middle/m2i8K9i8A0H7N4K9_cartoon-space-ship-space-shuttle-clip-art/
+The following sources were used to help learn how to write HTML and CSS:
+https://htmlcheatsheet.com/
+https://htmlcheatsheet.com/css/
+https://www.w3schools.com/default.asp
 //All sources are also linked using embedded links in every letter of the sentence(s) that were formulated using the given information
