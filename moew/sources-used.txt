@@ -1,0 +1,10 @@
+https://history.nasa.gov/conghand/propelnt.htm#:~:text=Most%20liquid%20chemical%20rockets%20use%20two%20separate%20propellants%3A,acid%2C%20nitrogen%20tetroxide%2C%20liquid%20oxygen%2C%20and%20liquid%20fluorine.
+https://theconversation.com/to-safely-explore-the-solar-system-and-beyond-spaceships-need-to-go-faster-nuclear-powered-rockets-may-be-the-answer-137967#Two%20Options%20For%20Nuclear
+https://www.energy.gov/ne/articles/6-things-you-should-know-about-nuclear-thermal-propulsion
+https://opinion.sites.northeastern.edu/2020/12/29/why-dont-we-send-nuclear-waste-into-space/
+https://ntrs.nasa.gov/api/citations/20150016484/downloads/20150016484.pdf#:~:text=The%20fundamental%20capability%20of%20Nuclear%20Thermal%20Propulsion%20%28NTP%29,that%20of%20state%20of%20the%20art%20chemical%20engines.
+https://www.theverge.com/2016/5/6/11607828/spacex-landed-falcon-rockets-stored-where-cape-canaveral-spaceport
+additional:
+ChatGPT using the prompt "can you make a nuclear powered spaceship" this helped with understanding the overall idea of what we were going to be researching as well as the questions we should be asking about the topic.
+
+//All sources are also linked using embedded links in every letter of the sentence(s) that were formulated using the given information
