@@ -1,0 +1,55 @@
+ .tit {
+   color: white;
+   text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 3px dotted white;
+  height: 1px;
+  
+}
+
+*{
+  flex: auto;
+  color: white;
+  background: #D0E4F5 url("background.gif") repeat scroll 50px 12px;
+}
+
+.num1,.num2{
+  border-left: 15px solid transparent;
+  border-right:15px solid transparent;
+}
+
+#meow {
+  font-size: 120%;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  padding-left: 1vw;
+}
+ .text1{
+  margin-right: 10px;
+ }
+ .text2{
+  margin-left: 10px;
+ }
+ .inline-block{
+  display: inline-block;
+ }
+ .container2{
+  
+ }
+ .rocket{
+  width: 20vw;
+  height: 20vh;
+  padding: .5vh 20vw .5vh 20vw
+ }
+ .proContainer{
+  width: 25vw;
+  height: 40vh
+  padding: .5vh 20vw .5vh 50vw;
+  
+ }
